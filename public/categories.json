@@ -1,0 +1,49 @@
+{
+	"categories": [
+		{
+			"id": 1,
+			"category": "Smartphone",
+			"slug": "smartphone"
+		},
+		{
+			"id": 2,
+			"category": "Laptop",
+			"slug": "laptop"
+		},
+		{
+			"id": 3,
+			"category": "Headphones",
+			"slug": "headphones"
+		},
+		{
+			"id": 4,
+			"category": "Smart Speaker",
+			"slug": "smart-speaker"
+		},
+		{
+			"id": 5,
+			"category": "Camera",
+			"slug": "camera"
+		},
+		{
+			"id": 6,
+			"category": "Earbuds",
+			"slug": "earbuds"
+		},
+		{
+			"id": 7,
+			"category": "Gaming Laptop",
+			"slug": "gaming-laptop"
+		},
+		{
+			"id": 8,
+			"category": "Portable Speaker",
+			"slug": "portable-speaker"
+		},
+		{
+			"id": 9,
+			"category": "Television",
+			"slug": "television"
+		}
+	]
+}

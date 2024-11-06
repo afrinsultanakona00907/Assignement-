@@ -1,0 +1,268 @@
+{
+	"products": [
+		{
+			"product_id": "E001",
+			"product_title": "Samsung Galaxy S21",
+			"product_image": "https://adminapi.applegadgetsbd.com/storage/media/large/2101-34043.jpg",
+			"category": "Smartphone",
+			"price": 799.99,
+			"description": "High-performance smartphone with 5G support and an advanced camera system.",
+			"specifications": [
+				"8GB RAM",
+				"128GB Storage",
+				"6.2-inch Dynamic AMOLED Display",
+				"Triple Camera 64MP+12MP+12MP",
+				"4000mAh Battery"
+			],
+			"availability": true,
+			"rating": 4.2,
+			"other": {
+				"color": "Phantom Gray",
+				"warranty": "1 year",
+				"OS": "Android 11"
+			}
+		},
+		{
+			"product_id": "E002",
+			"product_title": "Apple MacBook Air M1",
+			"product_image": "https://www.startech.com.bd/image/cache/catalog/laptop/apple/macbook-air/space-gray/13-inch/macbook-air-13-3-inch-500x500.webp",
+			"category": "Laptop",
+			"price": 999.99,
+			"description": "Lightweight laptop with powerful Apple M1 chip and all-day battery life.",
+			"specifications": [
+				"Apple M1 Chip",
+				"8GB RAM",
+				"256GB SSD",
+				"13.3-inch Retina Display",
+				"Up to 18 hours battery life"
+			],
+			"availability": true,
+			"rating": 4.8,
+			"other": {
+				"color": "Space Gray",
+				"warranty": "1 year",
+				"OS": "macOS Big Sur"
+			}
+		},
+		{
+			"product_id": "E003",
+			"product_title": "Sony WH-1000XM4",
+			"product_image": "https://adminapi.applegadgetsbd.com/storage/media/thumb/Sony-WH-1000XM4-Wireless-Noise-Cancelling-Headphones-bLUE-3859.jpg",
+			"category": "Headphones",
+			"price": 349.99,
+			"description": "Noise-canceling wireless headphones with superior sound quality.",
+			"specifications": [
+				"Wireless Bluetooth",
+				"30 Hours Battery Life",
+				"Touch Controls",
+				"Noise Cancelling",
+				"Voice Assistant Support"
+			],
+			"availability": false,
+			"rating": 4.7,
+			"other": {
+				"color": "Black",
+				"warranty": "1 year",
+				"weight": "254 grams"
+			}
+		},
+		{
+			"product_id": "E004",
+			"product_title": "Dell XPS 13",
+			"product_image": "https://adminapi.applegadgetsbd.com/storage/media/large/Dell-XPS-13-Plus-9320-b-6670.jpg",
+			"category": "Laptop",
+			"price": 1199.99,
+			"description": "Ultra-thin laptop with Intel i7 and high-definition display.",
+			"specifications": [
+				"11th Gen Intel Core i7",
+				"16GB RAM",
+				"512GB SSD",
+				"13.4-inch FHD+ Display",
+				"Intel Iris Xe Graphics"
+			],
+			"availability": true,
+			"rating": 4.4,
+			"other": {
+				"color": "Silver",
+				"warranty": "1 year",
+				"OS": "Windows 10"
+			}
+		},
+		{
+			"product_id": "E005",
+			"product_title": "Amazon Echo Dot (4th Gen)",
+			"product_image": "https://adminapi.applegadgetsbd.com/storage/media/large/2534-88537.jpg",
+			"category": "Smart Speaker",
+			"price": 49.99,
+			"description": "Voice-controlled smart speaker with Alexa and clear sound.",
+			"specifications": [
+				"Built-in Alexa",
+				"Bluetooth and Wi-Fi",
+				"1.6-inch Speaker",
+				"Voice Control",
+				"4 Microphone Array"
+			],
+			"availability": true,
+			"rating": 4.3,
+			"other": {
+				"color": "Charcoal",
+				"warranty": "90 days",
+				"compatibility": "iOS, Android"
+			}
+		},
+		{
+			"product_id": "E006",
+			"product_title": "Canon EOS R5",
+			"product_image": "https://asia.canon/media/image/2020/07/04/862a1f43feed4fab85897aee45b6324c_R5_Front_BODY.png",
+			"category": "Camera",
+			"price": 3899.99,
+			"description": "Professional-grade mirrorless camera with 8K video recording.",
+			"specifications": [
+				"45MP Full-frame Sensor",
+				"8K Video",
+				"Dual Pixel Autofocus",
+				"5-axis In-body Stabilization",
+				"High-speed Burst Shooting"
+			],
+			"availability": true,
+			"rating": 4.9,
+			"other": {
+				"color": "Black",
+				"warranty": "2 years",
+				"weight": "738 grams"
+			}
+		},
+		{
+			"product_id": "E007",
+			"product_title": "Bose QuietComfort Earbuds",
+			"product_image": "https://assets.bose.com/content/dam/cloudassets/Bose_DAM/Web/consumer_electronics/global/products/headphones/qc_earbuds/silo_images/v2/QCEB_PDP_Ecom-Gallery-B03.png/jcr:content/renditions/cq5dam.web.1920.1920.png",
+			"category": "Earbuds",
+			"price": 279.99,
+			"description": "Comfortable noise-canceling earbuds with powerful sound.",
+			"specifications": [
+				"Active Noise Cancelling",
+				"Bluetooth 5.1",
+				"Up to 6 hours Battery",
+				"Sweat and Weather-resistant",
+				"Touch Control"
+			],
+			"availability": true,
+			"rating": 4.5,
+			"other": {
+				"color": "Triple Black",
+				"warranty": "1 year",
+				"charging_case": "Included"
+			}
+		},
+		{
+			"product_id": "E008",
+			"product_title": "HP Spectre x360",
+			"product_image": "https://adminapi.applegadgetsbd.com/storage/media/large/HP-Spectre-x360-Convertible-14-EF2013DX-a-1801.jpg",
+			"category": "Laptop",
+			"price": 1299.99,
+			"description": "Convertible laptop with touchscreen and pen support.",
+			"specifications": [
+				"Intel Core i7",
+				"16GB RAM",
+				"512GB SSD",
+				"13.3-inch UHD Touch Display",
+				"Intel Iris Xe Graphics"
+			],
+			"availability": true,
+			"rating": 4.7,
+			"other": {
+				"color": "Nightfall Black",
+				"warranty": "1 year",
+				"battery_life": "Up to 14 hours"
+			}
+		},
+		{
+			"product_id": "E009",
+			"product_title": "Google Pixel 5",
+			"product_image": "https://adminapi.applegadgetsbd.com/storage/media/large/Google-Pixel-5-Just-Black-6269.jpg",
+			"category": "Smartphone",
+			"price": 699.99,
+			"description": "Google’s flagship phone with an impressive camera and pure Android experience.",
+			"specifications": [
+				"8GB RAM",
+				"128GB Storage",
+				"6-inch OLED Display",
+				"4080mAh Battery",
+				"Dual Camera 12.2MP+16MP"
+			],
+			"availability": true,
+			"rating": 4.4,
+			"other": {
+				"color": "Just Black",
+				"warranty": "1 year",
+				"OS": "Android 11"
+			}
+		},
+		{
+			"product_id": "E010",
+			"product_title": "JBL Charge 4",
+			"product_image": "https://adminapi.applegadgetsbd.com/storage/media/thumb/1961-38902.jpg",
+			"category": "Portable Speaker",
+			"price": 149.99,
+			"description": "Waterproof portable speaker with powerful bass and long battery life.",
+			"specifications": [
+				"Bluetooth 4.2",
+				"IPX7 Waterproof",
+				"Up to 20 Hours Battery Life",
+				"Built-in Power Bank",
+				"Dual Passive Radiators"
+			],
+			"availability": true,
+			"rating": 4.6,
+			"other": {
+				"color": "Black",
+				"warranty": "1 year",
+				"weight": "965 grams"
+			}
+		},
+		{
+			"product_id": "E011",
+			"product_title": "Asus ROG Zephyrus G14",
+			"product_image": "https://computermania-bd.b-cdn.net/wp-content/uploads/Asus-ROG-Zephyrus-9-1-600x450.jpg",
+			"category": "Gaming Laptop",
+			"price": 1449.99,
+			"description": "Compact gaming laptop with AMD Ryzen 9 and Nvidia GTX 2060 graphics.",
+			"specifications": [
+				"AMD Ryzen 9",
+				"16GB RAM",
+				"1TB SSD",
+				"14-inch FHD Display",
+				"Nvidia GTX 2060 Graphics"
+			],
+			"availability": true,
+			"rating": 4.7,
+			"other": {
+				"color": "Moonlight White",
+				"warranty": "1 year",
+				"weight": "1.6 kg"
+			}
+		},
+		{
+			"product_id": "E012",
+			"product_title": "Samsung 55-inch QLED Q80T",
+			"product_image": "https://mke.com.bd/media/catalog/product/q/e/qe_2_.png?store=default&image-type=image",
+			"category": "Television",
+			"price": 1099.99,
+			"description": "55-inch 4K Smart QLED TV with AI-powered picture quality and Quantum HDR.",
+			"specifications": [
+				"4K UHD Resolution",
+				"Quantum HDR",
+				"120Hz Refresh Rate",
+				"Direct Full Array",
+				"Voice Control with Alexa"
+			],
+			"availability": true,
+			"rating": 4.5,
+			"other": {
+				"color": "Titan Black",
+				"warranty": "1 year",
+				"Smart TV": "Yes"
+			}
+		}
+	]
+}
