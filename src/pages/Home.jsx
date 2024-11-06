@@ -13,7 +13,7 @@ const Home = () => {
 			</header>
 			<main className="max-w-6xl w-11/12 mx-auto">
 				<h2 className="text-3xl font-bold text-center mb-12">
-					Explore Cutting Edge Gadget
+					Explore Cutting Edge Gadgets
 				</h2>
 				<div className="flex flex-col sm:flex-row gap-4 pb-16">
 					<Sidebar />

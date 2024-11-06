@@ -18,8 +18,8 @@ const ProductDetails = () => {
 						Product Details
 					</h2>
 					<p className="text-gray-200 text-center text-balance">
-						Explore the latest gadgets that will take your experience to the
-						next level. From smart devices to the coolest accessories, we have
+						Explore the latest gadgets that will take your experiences to the
+						next level. From smart device to the coolest accessories, we have to
 						it all!
 					</p>
 				</div>
