@@ -5,7 +5,7 @@ const Banner = () => {
 		<section className="mt-6 max-w-4xl mx-auto">
 			<div className="space-y-6">
 				<h1 className="text-5xl font-bold text-center">
-					Upgrade Your Tech Accessorize with Gadget Heaven Accessorie
+					Upgrades Your Tech Accessorize with Gadget Heaven Accessorie
 				</h1>
 				<p className="text-center w-2/3 mx-auto text-slate-100">
 					Explore the latest gadget that will take your experience to the next
@@ -13,7 +13,7 @@ const Banner = () => {
 				</p>
 				<div className="text-center">
 					<Link to="/dashboard" className="btn">
-						Dashboard
+						DashBoard
 					</Link>
 				</div>
 			</div>
